@@ -1,9 +1,9 @@
-Project Objective:  
+**Project Objective**:  
 
 - Utilize data analysis techniques to provide valuable insights and accurate sales forecasting.
 - Focus on time series analysis to enhance business decision-making.
   
-Steps Taken:  
+**Steps Taken**:  
 
   Dashboard Creation:  
 
@@ -22,7 +22,7 @@ Actionable Insights and Recommendations:
 
 Shared key insights and recommendations that support strategic decision-making, focusing on growth, efficiency, and customer satisfaction.  
 
-Key Insights:  
+**Key Insights**:  
 
 Payment Methods:  
 
