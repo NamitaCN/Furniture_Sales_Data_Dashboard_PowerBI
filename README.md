@@ -5,7 +5,7 @@ Project Objective:
   
 Steps Taken:  
 
-Dashboard Creation:  
+  Dashboard Creation:  
 
 - Identified key KPIs and designed an intuitive, appealing dashboard.
 - Added interactive visualizations and filtering for exploring data at various levels.
