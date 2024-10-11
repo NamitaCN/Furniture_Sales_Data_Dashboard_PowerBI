@@ -1,6 +1,43 @@
-# Super-Store-Sales
-Power BI Dashboard
-Project Objective: To contribute to the success of a business by utilizing data analysis techniques, specifically focusing on time series analysis, to provide valuable insights and accurate sales forecasting .
-Steps Taken:   1. Dashboard Creation - Identified the KPIs, designed an intuitive appealing dashboard, added interactive visualizationsn and filtering which allow users to explore the data at various levels of granularity. 2. Data Analysis - Provided valuable insights to business entities enhancing effectiveness of their sales strategies through visualization and charts. 3. Sales Forecasting - Leveraged historic data and apply time series analysis to generate sales forecasts for next 15 days. 4. Actionable insights and Recommendations - Shared valuable insights and actionable information that can drive strategic decision-making and supported the supermarket's goal for growth, efficiency and customer satisfaction.  
-Insights: 1. Maximum number of payments to the store are done through Cash-on-delivery, then online methods. Least number of customers prefer paymeny through cards. 2. Western region customers are the most important customers for the store as they account for more than one-third of the store's sales. 3. Month-wise sales was highest in December then November , however maximum profits were encountered in the month of October then December & March. 
-In the last 2 years, the store has received 22k orders giving a sales of $1.6M . Total profit is $175K whereas teh store's average ship days has been 4 days. 
+Project Objective:  
+
+- Utilize data analysis techniques to provide valuable insights and accurate sales forecasting.
+- Focus on time series analysis to enhance business decision-making.
+  
+Steps Taken:  
+
+Dashboard Creation:  
+
+- Identified key KPIs and designed an intuitive, appealing dashboard.
+- Added interactive visualizations and filtering for exploring data at various levels.
+  
+Data Analysis:  
+
+Provided valuable insights through visualizations and charts, enhancing the effectiveness of sales strategies.
+
+Sales Forecasting:  
+
+Applied time series analysis on historic data to forecast sales for the next 15 days.
+  
+Actionable Insights and Recommendations:  
+
+Shared key insights and recommendations that support strategic decision-making, focusing on growth, efficiency, and customer satisfaction.  
+
+Key Insights:  
+
+Payment Methods:  
+
+- Maximum payments are made through Cash-on-delivery, followed by online methods.
+- Card payments are the least preferred by customers.
+  
+Regional Sales:  
+
+Western region customers account for more than one-third of the store's sales, making them the most valuable.  
+
+Month-wise Sales & Profit:  
+
+The highest sales occurred in December and November, while October saw the highest profits, followed by December and March.  
+
+Store Performance:  
+
+- Over the past two years, the store has received 22,000 orders, generating $1.6 million in sales.
+- Total profit amounts to $175,000, with an average shipping time of 4 days.
